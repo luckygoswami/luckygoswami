@@ -1,1 +1,1 @@
-<a href="https://twitter.com/intent/user?screen_name=luckygoswamii"><img alt="Follow @luckygoswamii on Twitter" src="https://github.com/luckygoswami/luckygoswami/raw/main/assets/header.svg"/></a>
+<a href="https://www.linkedin.com/in/deepakgoswamii/"><img alt="Connect with @deepakgoswamii on LinkedIn" src="https://github.com/luckygoswami/luckygoswami/raw/main/assets/header.svg"/></a>
